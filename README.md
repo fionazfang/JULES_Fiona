@@ -12,7 +12,7 @@ The **julesf** package implements key components of the JULES land‐surface mod
   Simulates surface energy exchange, including net radiation, sensible and latent heat fluxes.
 
 - **Plant Physiology**:  
-  Models photosynthesis and respiration via a Farquhar-type scheme, integrating diurnal and seasonal variations in environmental drivers. First computes the leaf-level physiologyand then scales up to canopy-level.
+  Models photosynthesis and respiration, integrating diurnal and seasonal variations in environmental drivers. First computes the leaf-level physiologyand then scales up to canopy-level.
 
 - **Soil Moisture and Thermodynamics**:  
   Implements a multi‐layer formulation of the Richards equation for soil moisture dynamics, coupled with heat conduction and thermodynamic equations to capture subsurface temperature profiles. Provides multiple options for computing soil hydraulic and thermal properties.
