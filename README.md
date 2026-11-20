@@ -83,7 +83,7 @@ src/julesf/
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/JULES_Fiona.git
+git clone https://github.com/fionazfang/JULES_Fiona.git
 cd JULES_Fiona
 python -m pip install -e .
 ```
